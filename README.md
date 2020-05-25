@@ -1,4 +1,4 @@
-# 飛機射擊遊戲—— [馬上開始玩](https://ericshiu.github.io/AirplaneGame/build/index.html)
+# 飛機射擊英文遊戲—— [馬上開始玩](https://ericshiu.github.io/AirplaneEnglishGame/build/)
 
 遊戲方法
 -------------------
